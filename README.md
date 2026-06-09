@@ -5,9 +5,17 @@ Project Overview
 This project is a Machine Learning model that classifies SMS messages as Spam or Ham (Not Spam) using Natural Language Processing.
 
 📊 Dataset
+
+
 SMS Spam Collection Dataset
+
+
 5572 messages
+
+
 Labels: ham / spam
+
+
 🧠 Model Used
 Multinomial Naive Bayes
 Feature Extraction: CountVectorizer (Bag of Words)
